@@ -7,4 +7,6 @@
 An Interactive Web Tool for Sample Size Calculation in Assessing Models' Discriminative Abilities
 
 - Website is available at https://fcgrolleau.github.io/powerROC
+- Introudction tutorial is available at https://github.com/fcgrolleau/powerROC/raw/main/powerroc.pdf
+- <a href="https://github.com/fcgrolleau/powerROC/raw/main/powerroc.pdf" target="_blank">Open tutorial in a new tab</a>
 - Python code is available at https://github.com/HealthRex/CDSS/tree/master/scripts/DevWorkshop/ROC-power/shinyapp
