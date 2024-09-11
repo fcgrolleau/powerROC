@@ -8,4 +8,5 @@ An Interactive Web Tool for Sample Size Calculation in Assessing Models' Discrim
 
 - Website is available at <a href="https://fcgrolleau.github.io/powerROC" target="_blank">https://fcgrolleau.github.io/powerROC</a>
 - Introduction tutorial is available at https://github.com/fcgrolleau/powerROC/blob/main/powerroc.pdf
-- Python code is available at https://github.com/HealthRex/CDSS/tree/master/scripts/DevWorkshop/ROC-power/shinyapp
+- Code for the Shinyapp is available at https://github.com/HealthRex/CDSS/tree/master/scripts/DevWorkshop/ROC-power/shinyapp
+- Code for the case study is available in the `script/case_study` folder
